@@ -1,0 +1,7 @@
+post_upgrade() {
+    rm -rf /home/.ftnn/reinstalled
+}
+
+pre_remove() {
+    rm -rf /home/.ftnn
+}

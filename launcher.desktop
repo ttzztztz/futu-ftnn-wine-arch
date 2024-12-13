@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Futu
+MimeType=
+Exec=/usr/share/com.futu.ftnn.wine/run.sh
+Type=Application
+GenericName=FTNN
+Terminal=false
+Comment=Futu Bull (FTNN) Windows
+Categories=Financial
