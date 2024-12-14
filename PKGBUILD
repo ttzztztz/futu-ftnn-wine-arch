@@ -1,6 +1,6 @@
 # Maintainer: ttzztztz <ttzztztz@outlook.com>
 
-pkgname=com.futu.ftnn.wine
+pkgname=futu-ftnn-wine
 pkgver=14.40.16258
 pkgrel=1
 pkgdesc="Futu Bull (FTNN) Wine unofficial version, use it at your own risk!"
@@ -25,8 +25,8 @@ optdepends=('winetricks: Recommended wine tools')
 
 md5sums=(
 	'3913a9aea280f60f4bf9acc0d3241b2f'
-	'72b01d66a008f7f27c45b18d2a1abd0a'
-	'f5f1458a11d24fad34e82e0bd91879dc'
+	'bc38622b1c67953d638fabd5b33300df'
+	'1e10f558dab2b9307c9d7a80de38d748'
 	'fb0a1e6b6424501f81d88b61bd2e0fa8'
 )
 

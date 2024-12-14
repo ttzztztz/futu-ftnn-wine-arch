@@ -33,7 +33,7 @@ DeployApp()
 
     # resolve CJK issue
     ln -sf "/usr/share/fonts/wenquanyi/wqy-microhei/wqy-microhei.ttc" "$FONTS_PATH/wqy-microhei.ttc"
-    env WINEPREFIX=$WINEPREFIX $APPRUN_CMD start regedit.exe /usr/share/com.futu.ftnn.wine/cjk-font.reg
+    env WINEPREFIX=$WINEPREFIX $APPRUN_CMD start regedit.exe /usr/share/futu-ftnn-wine/cjk-font.reg
 
     # run installer
     env WINEPREFIX=$WINEPREFIX $APPRUN_CMD "$INSTALLER_PATH" "$@"

@@ -1,4 +1,4 @@
-pkgbase = com.futu.ftnn.wine
+pkgbase = futu-ftnn-wine
 	pkgdesc = Futu Bull (FTNN) Wine unofficial version, use it at your own risk!
 	pkgver = 14.40.16258
 	pkgrel = 1
@@ -21,4 +21,4 @@ pkgbase = com.futu.ftnn.wine
 	md5sums = f5f1458a11d24fad34e82e0bd91879dc
 	md5sums = fb0a1e6b6424501f81d88b61bd2e0fa8
 
-pkgname = com.futu.ftnn.wine
+pkgname = futu-ftnn-wine
