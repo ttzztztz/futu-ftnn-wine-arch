@@ -23,8 +23,12 @@ source=(
 )
 optdepends=('winetricks: Recommended wine tools')
 
-md5sums=("SKIP" "SKIP" "SKIP" "SKIP") # TODO
-# md5sums=('3913a9aea280f60f4bf9acc0d3241b2f')
+md5sums=(
+	'3913a9aea280f60f4bf9acc0d3241b2f'
+	'72b01d66a008f7f27c45b18d2a1abd0a'
+	'f5f1458a11d24fad34e82e0bd91879dc'
+	'fb0a1e6b6424501f81d88b61bd2e0fa8'
+)
 
 package() {
 	install -d --mode=755 "${pkgdir}/usr/share/$pkgname/"
