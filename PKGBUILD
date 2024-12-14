@@ -5,7 +5,7 @@ pkgver=14.40.16258
 pkgrel=1
 pkgdesc="Futu Bull (FTNN) Wine unofficial version, use it at your own risk!"
 arch=('x86_64')
-url="https://www.futunn.com/download/windows?lang=zh-CN"
+url="https://github.com/ttzztztz/futu-ftnn-wine-arch"
 install="com-futu-ftnn-wine.install"
 license=('unknown')
 depends=(
